@@ -1,0 +1,96 @@
+.recipe{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.mainInfo{
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   gap: 40px;
+}
+.recipe img{
+   width: 430px;  
+}
+.dishText{
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+}
+.mainInfo h2{
+   font-size: 40px;
+   text-align: left;
+   color: #212121;
+}
+.mainInfo p{
+   font-size: 20px;
+   color: #000;
+   text-align: left;
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 5; /* number of lines to show */
+           line-clamp: 5;
+   -webkit-box-orient: vertical;
+}
+.recipe button{
+   font-size: 19px;
+}
+.recipe button a{
+   font-size: 19px;
+   color: white;
+}
+.but{
+   display: flex;
+   flex-direction: column;
+   gap: 18px;
+   width: 100%;
+   margin-top: 18px;
+}
+.box{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   background: white;
+   box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2) !important;
+   padding: 24px;
+}
+.video{
+   display: flex;
+   gap: 15px;
+}
+.video img{
+   width: 40px;
+   height: 40px;
+}
+.MuiBox-root{
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+}
+.box iframe{
+   width: 700px;
+   height: 450px;
+}
+table{
+   margin-top: 50px;
+   margin-bottom: 50px;
+   width: 100%;
+   border-collapse: collapse;
+}
+td, th{
+   font-size: 25px;
+   padding: 20px 10px;
+}
+tr{
+   border-bottom: 1px solid #0000004e;
+}
+.dishTitle{
+   display: flex;
+   gap: 30px;
+   align-items: center;
+}
+.dishTitle img{
+   width: 55px;
+   height: 36px;
+}

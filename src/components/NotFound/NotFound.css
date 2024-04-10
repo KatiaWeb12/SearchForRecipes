@@ -1,0 +1,13 @@
+.notFoundCont{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 30px;
+}
+.notFoundCont p{
+   border-radius: 6px;
+   padding: 5px;
+   font-size: 30px;
+   color: #4d5b4d72;
+}
