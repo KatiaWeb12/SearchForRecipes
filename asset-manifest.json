@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KatiaWeb12/toDoList.git/static/css/main.29b2a9af.css",
+    "main.js": "/KatiaWeb12/toDoList.git/static/js/main.5fe4c7c3.js",
+    "static/media/grate_britain.jpg": "/KatiaWeb12/toDoList.git/static/media/grate_britain.1aeb255d8863e51fcaf1.jpg",
+    "static/media/usa.jpg": "/KatiaWeb12/toDoList.git/static/media/usa.cb25d15470fb61298aa5.jpg",
+    "index.html": "/KatiaWeb12/toDoList.git/index.html",
+    "main.29b2a9af.css.map": "/KatiaWeb12/toDoList.git/static/css/main.29b2a9af.css.map",
+    "main.5fe4c7c3.js.map": "/KatiaWeb12/toDoList.git/static/js/main.5fe4c7c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b2a9af.css",
+    "static/js/main.5fe4c7c3.js"
+  ]
+}
